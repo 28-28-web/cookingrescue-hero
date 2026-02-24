@@ -16,7 +16,7 @@ export default function Home() {
 
           {/* CTA button */}
           <a
-            href="https://cookingrescue.com"
+            href="https://www.cookingrescue.com"
             style={{ background: '#111' }}
             className="group inline-flex items-center gap-3 text-white text-sm font-semibold px-8 py-4 rounded-full hover:opacity-80 transition-opacity duration-200"
           >

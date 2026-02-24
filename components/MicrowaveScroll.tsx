@@ -50,7 +50,7 @@ const BEATS: Beat[] = [
         heading: 'CookingRescue.',
         sub: (
             <a
-                href="https://cookingrescue.com"
+                href="https://www.cookingrescue.com"
                 className="inline-flex items-center gap-2 bg-black/80 backdrop-blur-sm text-white text-sm font-medium tracking-wide px-6 py-3 rounded-full hover:bg-black transition-colors duration-200"
             >
                 Start cooking tonight
